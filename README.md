@@ -1,15 +1,17 @@
 # <img src="https://i.giphy.com/hvRJCLFzcasrR4ia7z.gif" width="24" height="24" valign="middle" /> Hello there! I'm K4slr
 
-<div align="center">
+# <img src="https://i.giphy.com/hvRJCLFzcasrR4ia7z.gif" width="24" height="24" valign="middle" /> Hello there! I'm K4slr
+
+<p align="left">
   <img src="https://github.com/user-attachments/assets/1b33dd0f-58d8-489e-b24f-01155d2061c1" width="480" alt="Animated Visual" />
-</div>
+</p>
 
 I focus on Network Engineering, Telemetry, and Systems Software.
 
 <p align="left">
-  <a href="https://github.com/K4slr"><img src="https://komarev.com/ghpvc/?username=K4slr&label=page+views&color=0e75b6&style=flat" alt="page views" /></a>
+  <a href="https://github.com/taintedkaslr"><img src="https://komarev.com/ghpvc/?username=taintedkaslr&label=page+views&color=0e75b6&style=flat" alt="page views" /></a>
   <a href="https://github.com/taintedkaslr?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/taintedkaslr?style=flat&logo=github&cacheSeconds=60" /></a>
-  <a href="https://linkedin.com/in/K4slr"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/taintedkaslr"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <img src="https://streak-stats.demolab.com?user=taintedkaslr&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=7ee787&fire=7ee787&currStreakLabel=7ee787" alt="taintedkaslr Stats" align="right" width="380" />
