@@ -2,7 +2,8 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF2dTI0czN3d3A5OGtuNm1ia2ZweDFzcXY4bzNybGxveGViZjN5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eATt3b9TKBfB2l0z4G/giphy.gif" width="480" alt="Animated Visual" />
+  <img src="
+" width="480" alt="Animated Visual" />
 </div>
 
 I focus on Network Engineering, Telemetry, and Systems Software.
