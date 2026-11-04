@@ -1,8 +1,7 @@
 # <img src="https://i.giphy.com/hvRJCLFzcasrR4ia7z.gif" width="24" height="24" valign="middle" /> Hello there! I'm K4slr
 
 <div align="center">
-  <img src="<img width="533" height="300" alt="giphy-F9JuwMyUv1aWWl2mkk-compressed" src="https://github.com/user-attachments/assets/1b33dd0f-58d8-489e-b24f-01155d2061c1" />
-" width="480" alt="Animated Visual" />
+  <img src="https://github.com/user-attachments/assets/1b33dd0f-58d8-489e-b24f-01155d2061c1" width="480" alt="Animated Visual" />
 </div>
 
 I focus on Network Engineering, Telemetry, and Systems Software.
