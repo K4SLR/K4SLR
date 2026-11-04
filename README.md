@@ -20,7 +20,7 @@ I focus on Network Engineering, Telemetry, and Systems Software.
 
 ## Coding Activity
 
-Total logged open-source coding time since 2024-01-01. Updated every 1 hour.
+Total logged open-source coding time since 2023-08-13. Updated every 1 hour.
 
 ```text
 2204.6 hr ┤╭──────────────────────────────────────────────────────────────────────────────────────────────────
