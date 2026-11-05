@@ -7,7 +7,7 @@
 I focus on Network Engineering, Telemetry, and Systems Software.
 
 <p align="left">
-  <a href="https://github.com/taintedkaslr"><img src="https://komarev.com/ghpvc/?username=taintedkaslr&label=page+views&color=0e75b6&style=flat" alt="page views" /></a>
+  <a href="https://github.com/k4slr"><img src="https://komarev.com/ghpvc/?username=taintedkaslr&label=page+views&color=0e75b6&style=flat" alt="page views" /></a>
   <a href="https://github.com/taintedkaslr?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/taintedkaslr?style=flat&logo=github&cacheSeconds=60" /></a>
   <a href="https://linkedin.com/in/taintedkaslr"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
