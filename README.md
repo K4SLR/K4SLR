@@ -12,7 +12,7 @@ I focus on Network Engineering, Telemetry, and Systems Software.
   <a href="https://linkedin.com/in/taintedkaslr"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src="https://streak-stats.demolab.com?user=taintedkaslr&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=7ee787&fire=7ee787&currStreakLabel=7ee787" alt="taintedkaslr Stats" align="right" width="380" />
+<img src="https://streak-stats.demolab.com?user=k4slr&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=7ee787&fire=7ee787&currStreakLabel=7ee787" alt="k4slr Stats" align="right" width="380" />
 
 - <img src="https://i.giphy.com/coxQHKASG60HrCA0V4.gif" width="14" height="14" valign="middle" /> &nbsp;Focusing on **Network Engineering**, **Network Security (NIDS/IPS)**, and **Telemetry**
 - <img src="https://i.giphy.com/kUTME7ABmhYxu.gif" width="14" height="14" valign="middle" /> &nbsp;Developing **[Network Anomaly Sentinel]** and local server daemons
